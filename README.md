@@ -10,9 +10,11 @@ A full-stack web application for managing student mini projects — built with R
 
 ---
 
-## 📸 Screenshots
+ ## 📸 Screenshots
 
-> Add screenshots of your dashboard, task cards, and dark mode here
+![Dashboard](assets/screenshots/dashboard.png)
+![Dark Mode](assets/screenshots/dark%20mode.png)
+![New Task](assets/screenshots/new%20task.png)
 
 ---
 
