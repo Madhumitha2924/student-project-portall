@@ -2,11 +2,6 @@
 
 A full-stack web application for managing student mini projects — built with React, Node.js, Express, and a smart auto-detecting database adapter.
 
----
-
-## 🚀 Live Demo
-
-> Coming soon — deploy on Vercel (frontend) + Render (backend)
 
 ---
 
