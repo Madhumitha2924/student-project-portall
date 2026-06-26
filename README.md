@@ -172,14 +172,9 @@ Base URL: `http://localhost:5000/api`
 ## 🧑‍💻 Author
 
 **Madhumitha**
+- VTU26745
 - B.Tech Computer Science (AI & Data Science)
 - Veltech Rangarajan Dr. Sagunthala R&D Institute (2023–2027)
 - GitHub: [@Madhumitha2924](https://github.com/Madhumitha2924)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
